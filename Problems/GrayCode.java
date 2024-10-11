@@ -1,3 +1,5 @@
+package Problems;
+
 import java.io.*;
 
 public class GrayCode {

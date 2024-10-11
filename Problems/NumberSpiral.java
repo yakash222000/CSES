@@ -1,5 +1,6 @@
+package Problems;
+
 import java.io.*;
-import java.util.*;
 
 public class NumberSpiral {
     static int T;
