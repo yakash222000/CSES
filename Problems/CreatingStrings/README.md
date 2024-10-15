@@ -56,7 +56,7 @@ The program uses a combination of sorting, swapping, and reversing to generate t
 1. Clone the repository or download the source file.
 2. Compile and run the program using the following commands:
 
-```bash
+```
 javac CreatingStrings.java
 java CreatingStrings
 ```
