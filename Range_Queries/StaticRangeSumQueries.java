@@ -1,4 +1,4 @@
-package Problems;
+package Range_Queries;
 
 import java.io.*;
 

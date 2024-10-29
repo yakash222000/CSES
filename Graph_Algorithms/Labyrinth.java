@@ -1,4 +1,4 @@
-package Problems;
+package Graph_Algorithms;
 
 import java.util.LinkedList;
 import java.util.Queue;

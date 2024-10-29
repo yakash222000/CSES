@@ -1,4 +1,4 @@
-package Problems;
+package Introductory_Problems;
 
 import java.io.*;
 

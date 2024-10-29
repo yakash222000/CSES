@@ -1,4 +1,4 @@
-package Problems;
+package Mathematics;
 
 import java.io.*;
 
