@@ -1,5 +1,3 @@
-package Graph_Algorithms;
-
 import java.util.Scanner;
 import java.util.Stack;
 

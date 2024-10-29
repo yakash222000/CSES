@@ -1,5 +1,3 @@
-package Introductory_Problems;
-
 import java.io.*;
 
 public class TwoSets {

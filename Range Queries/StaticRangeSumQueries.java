@@ -1,5 +1,3 @@
-package Range_Queries;
-
 import java.io.*;
 
 public class StaticRangeSumQueries {

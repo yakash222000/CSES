@@ -1,5 +1,3 @@
-package Mathematics;
-
 import java.io.*;
 
 public class CountingDivisor {
